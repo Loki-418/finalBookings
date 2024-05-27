@@ -8,3 +8,5 @@ npm run dev (separate terminal)
 npm run test
 
 Should give the proper results ;)
+
+deployed@https://finalbookings-35ru.onrender.com/
